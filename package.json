@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "1.0.0",
   "name": "cordova-remove-cookies",
   "cordova_name": "Cookies",
   "description": "Cordova Cookies Plugin",
@@ -11,7 +11,7 @@
   ],
   "engines": [],
   "cordova": {
-    "id": "com.bez4pieci.cookies",
+    "id": "cordova-remove-cookies",
     "platforms": [
       "ios",
       "android"
